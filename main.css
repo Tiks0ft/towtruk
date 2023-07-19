@@ -151,7 +151,7 @@ ul {
     width: 230px;
 }
 .card-item {
-    border: 5px solid #FBB400;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.15); 
     width: 230px;
     padding: 30px 18px;
     border-radius: 15px;
