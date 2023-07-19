@@ -211,7 +211,7 @@ iframe {
     justify-content: space-between;
 }
 .special-card {
-    box-shadow: -2px -2px 15px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: -2px -2px 15px 5px rgba(0, 0, 0, 0.05);
     border-radius: 5px;
     max-width: 370px;
     display: flex;
